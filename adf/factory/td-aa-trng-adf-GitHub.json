@@ -1,4 +1,12 @@
 {
 	"name": "td-aa-trng-adf-GitHub",
+	"properties": {
+		"globalParameters": {
+			"EmailTo": {
+				"type": "string",
+				"value": "sumit.jain@teradata.com"
+			}
+		}
+	},
 	"location": "eastus"
 }
